@@ -1,0 +1,996 @@
+2021-04-06 22:53:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-06 22:53:26 - Started 9964
+2021-04-07 21:55:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-07 21:55:24 - Started 4308
+2021-04-08 19:05:52 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-08 19:05:52 - Started 4484
+2021-04-09 17:41:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-09 17:41:46 - Started 4516
+2021-04-10 12:56:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-10 12:56:26 - Started 4896
+2021-04-11 19:03:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-11 19:03:44 - Started 4372
+2021-04-11 22:54:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-11 22:54:22 - Started 4064
+2021-04-11 22:54:39 - Stopping mqtt_broker.exe
+2021-04-11 22:54:39 - ProcessKill 4064
+2021-04-11 22:54:39 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-04-11 22:55:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-11 22:55:08 - Started 5228
+2021-04-12 19:41:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-12 19:41:26 - Started 4600
+2021-04-12 23:14:16 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-12 23:14:16 - Started 4388
+2021-04-13 09:00:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-13 09:00:01 - Started 4440
+2021-04-13 20:57:32 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-13 20:57:32 - Started 4320
+2021-04-14 18:08:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-14 18:08:45 - Started 4364
+2021-04-15 18:08:49 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-15 18:08:49 - Started 4040
+2021-04-16 00:39:41 - Stopping mqtt_broker.exe
+2021-04-16 00:39:41 - ProcessKill 4040
+2021-04-16 00:39:41 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-04-16 20:51:30 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-16 20:51:30 - Started 4756
+2021-04-17 00:21:45 - Stopping mqtt_broker.exe
+2021-04-17 00:21:45 - ProcessKill 4756
+2021-04-17 00:21:45 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-04-17 20:13:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-17 20:13:44 - Started 4744
+2021-04-18 03:22:32 - Stopping mqtt_broker.exe
+2021-04-18 03:22:32 - ProcessKill 4744
+2021-04-18 03:22:32 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-04-18 13:49:38 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-18 13:49:38 - Started 4536
+2021-04-19 21:28:56 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-19 21:28:56 - Started 4400
+2021-04-21 08:31:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-21 08:31:03 - Started 4888
+2021-04-21 22:39:24 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-21 22:39:24 - Started 4396
+2021-04-22 17:51:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-22 17:51:58 - Started 4608
+2021-04-23 17:30:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-23 17:30:45 - Started 4708
+2021-04-24 18:31:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-24 18:31:26 - Started 4460
+2021-04-25 02:06:38 - Stopping mqtt_broker.exe
+2021-04-25 02:06:38 - ProcessKill 4460
+2021-04-25 02:06:38 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-04-25 08:33:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-25 08:33:48 - Started 4928
+2021-04-25 20:54:15 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-25 20:54:15 - Started 4560
+2021-04-25 22:53:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-25 22:53:03 - Started 4596
+2021-04-26 17:53:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-26 17:53:44 - Started 4364
+2021-04-26 22:53:19 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-26 22:53:19 - Started 4268
+2021-04-27 17:50:18 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-27 17:50:19 - Started 4856
+2021-04-28 23:05:15 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-28 23:05:15 - Started 4316
+2021-04-29 19:37:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-29 19:37:44 - Started 4488
+2021-04-30 16:24:06 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-04-30 16:24:06 - Started 4528
+2021-05-01 07:14:25 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-01 07:14:25 - Started 4476
+2021-05-02 03:35:25 - Stopping mqtt_broker.exe
+2021-05-02 03:35:25 - ProcessKill 4476
+2021-05-02 03:35:26 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-05-02 12:38:52 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-02 12:38:52 - Started 4536
+2021-05-03 09:08:29 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-03 09:08:30 - Started 4520
+2021-05-04 19:07:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-04 19:07:08 - Started 4356
+2021-05-05 21:10:30 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-05 21:10:31 - Started 4360
+2021-05-06 22:04:37 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-06 22:04:38 - Started 4324
+2021-05-07 20:54:28 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-07 20:54:28 - Started 4352
+2021-05-08 14:23:19 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-08 14:23:19 - Started 5008
+2021-05-08 17:46:44 - Stopping mqtt_broker.exe
+2021-05-08 17:46:44 - ProcessKill 5008
+2021-05-08 17:46:44 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-05-08 21:05:20 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-08 21:05:21 - Started 4816
+2021-05-10 20:05:29 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-10 20:05:29 - Started 4764
+2021-05-11 01:47:34 - Stopping mqtt_broker.exe
+2021-05-11 01:47:34 - ProcessKill 4764
+2021-05-11 01:47:35 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-05-11 18:29:27 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-11 18:29:27 - Started 5000
+2021-05-12 18:44:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-12 18:44:42 - Started 4620
+2021-05-12 21:15:24 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-12 21:15:24 - Started 4420
+2021-05-13 00:50:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-13 00:50:27 - Started 4516
+2021-05-13 21:59:02 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-13 21:59:02 - Started 4020
+2021-05-14 17:38:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-14 17:38:22 - Started 4388
+2021-05-14 19:02:31 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-14 19:02:31 - Started 4668
+2021-05-14 22:09:20 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-14 22:09:20 - Started 4640
+2021-05-15 12:20:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-15 12:20:59 - Started 4812
+2021-05-15 14:16:36 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-15 14:16:36 - Started 4352
+2021-05-15 16:56:24 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-15 16:56:25 - Started 4216
+2021-05-15 20:55:15 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-15 20:55:15 - Started 4860
+2021-05-16 10:16:14 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-16 10:16:14 - Started 4448
+2021-05-16 11:02:06 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-16 11:02:06 - Started 4512
+2021-05-16 21:34:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-16 21:34:01 - Started 4576
+2021-05-17 18:28:24 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-17 18:28:25 - Started 4532
+2021-05-17 21:32:50 - Stopping mqtt_broker.exe
+2021-05-17 21:32:50 - ProcessKill 4532
+2021-05-17 21:32:50 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-05-17 23:25:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-17 23:25:51 - Started 4584
+2021-05-19 17:40:55 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-19 17:40:55 - Started 4732
+2021-05-19 21:02:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-19 21:02:45 - Started 4628
+2021-05-20 17:47:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-20 17:47:45 - Started 4400
+2021-05-21 19:01:21 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-21 19:01:21 - Started 4584
+2021-05-22 00:02:36 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-22 00:02:36 - Started 4672
+2021-05-22 13:40:34 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-22 13:40:35 - Started 4472
+2021-05-22 15:35:35 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-22 15:35:35 - Started 4456
+2021-05-22 16:27:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-22 16:27:41 - Started 4516
+2021-05-23 13:20:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-23 13:20:44 - Started 4412
+2021-05-23 14:31:02 - Stopping mqtt_broker.exe
+2021-05-23 14:31:02 - ProcessKill 4412
+2021-05-23 14:31:02 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-05-24 18:15:56 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-24 18:15:56 - Started 4904
+2021-05-25 20:30:14 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-25 20:30:14 - Started 4232
+2021-05-26 19:40:16 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-26 19:40:17 - Started 4456
+2021-05-27 18:30:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-27 18:30:11 - Started 4332
+2021-05-28 17:47:02 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-28 17:47:02 - Started 4400
+2021-05-29 14:37:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-29 14:37:50 - Started 4736
+2021-05-30 01:30:36 - Stopping mqtt_broker.exe
+2021-05-30 01:30:36 - ProcessKill 4736
+2021-05-30 01:30:36 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-05-30 09:05:39 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-30 09:05:39 - Started 5036
+2021-05-31 18:48:38 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-05-31 18:48:38 - Started 4716
+2021-06-01 18:19:18 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-01 18:19:18 - Started 4524
+2021-06-02 02:00:43 - Stopping mqtt_broker.exe
+2021-06-02 02:00:43 - ProcessKill 4524
+2021-06-02 02:00:43 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-06-02 17:26:14 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-02 17:26:14 - Started 4624
+2021-06-03 19:20:35 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-03 19:20:35 - Started 4580
+2021-06-05 16:53:29 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-05 16:53:29 - Started 4832
+2021-06-05 22:19:54 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-05 22:19:54 - Started 4372
+2021-06-06 07:36:34 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-06 07:36:34 - Started 4496
+2021-06-07 17:52:02 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-07 17:52:02 - Started 4540
+2021-06-08 21:13:00 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-08 21:13:00 - Started 4604
+2021-06-09 17:46:09 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-09 17:46:09 - Started 4700
+2021-06-10 23:35:40 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-10 23:35:40 - Started 4248
+2021-06-10 23:38:26 - Stopping mqtt_broker.exe
+2021-06-10 23:38:26 - ProcessKill 4248
+2021-06-10 23:38:26 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-06-10 23:38:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-10 23:38:51 - Started 4640
+2021-06-12 02:02:57 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-12 02:02:57 - Started 4612
+2021-06-12 12:17:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-12 12:17:51 - Started 4420
+2021-06-12 19:26:13 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-12 19:26:13 - Started 4516
+2021-06-13 15:23:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-13 15:23:50 - Started 4432
+2021-06-13 21:58:15 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-13 21:58:16 - Started 4296
+2021-06-14 19:09:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-14 19:09:48 - Started 4424
+2021-06-15 18:55:53 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-15 18:55:54 - Started 4712
+2021-06-16 18:16:35 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-16 18:16:35 - Started 4464
+2021-06-17 22:49:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-17 22:49:01 - Started 4116
+2021-06-18 17:58:33 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-18 17:58:33 - Started 5112
+2021-06-19 02:33:11 - Stopping mqtt_broker.exe
+2021-06-19 02:33:11 - ProcessKill 5112
+2021-06-19 02:33:11 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-06-19 19:37:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-19 19:37:17 - Started 4856
+2021-06-20 08:30:28 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-20 08:30:28 - Started 4516
+2021-06-20 20:15:18 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-20 20:15:19 - Started 4588
+2021-06-21 17:41:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-21 17:41:52 - Started 4608
+2021-06-22 21:38:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-22 21:38:08 - Started 4564
+2021-06-23 16:32:09 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-23 16:32:09 - Started 4448
+2021-06-24 12:29:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-24 12:29:08 - Started 4340
+2021-06-25 21:00:35 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-25 21:00:35 - Started 4412
+2021-06-26 23:59:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-26 23:59:51 - Started 4552
+2021-06-27 22:03:21 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-27 22:03:21 - Started 4364
+2021-06-28 20:41:39 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-28 20:41:39 - Started 4732
+2021-06-29 20:29:49 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-29 20:29:49 - Started 4616
+2021-06-30 18:33:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-30 18:33:07 - Started 4336
+2021-07-01 18:07:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-01 18:07:58 - Started 4648
+2021-07-02 19:21:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-02 19:21:22 - Started 3888
+2021-07-03 14:41:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-03 14:41:11 - Started 4476
+2021-07-03 21:25:09 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-03 21:25:09 - Started 4348
+2021-07-04 07:25:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-04 07:25:48 - Started 4328
+2021-07-04 08:37:15 - Stopping mqtt_broker.exe
+2021-07-04 08:37:15 - ProcessKill 4328
+2021-07-04 08:37:15 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-07-04 21:57:12 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-04 21:57:12 - Started 5020
+2021-07-05 02:07:48 - Stopping mqtt_broker.exe
+2021-07-05 02:07:48 - ProcessKill 5020
+2021-07-05 02:07:48 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-07-05 07:22:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-05 07:22:50 - Started 4436
+2021-07-05 18:40:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-05 18:40:59 - Started 4340
+2021-07-06 01:42:48 - Stopping mqtt_broker.exe
+2021-07-06 01:42:48 - ProcessKill 4340
+2021-07-06 01:42:48 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-07-06 21:51:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-06 21:51:41 - Started 4780
+2021-07-07 19:15:13 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-07 19:15:13 - Started 4536
+2021-07-08 18:33:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-08 18:33:48 - Started 4484
+2021-07-09 00:06:52 - Stopping mqtt_broker.exe
+2021-07-09 00:06:52 - ProcessKill 4484
+2021-07-09 00:06:53 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-07-09 00:07:16 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-09 00:07:16 - Started 4040
+2021-07-09 18:01:52 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-09 18:01:52 - Started 4336
+2021-07-10 13:27:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-10 13:27:23 - Started 4164
+2021-07-11 11:25:27 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-11 11:25:27 - Started 4836
+2021-07-12 18:29:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-12 18:29:59 - Started 4512
+2021-07-13 19:24:19 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-13 19:24:19 - Started 4284
+2021-07-18 08:35:56 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-18 08:35:56 - Started 4912
+2021-07-20 20:12:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-20 20:12:01 - Started 4260
+2021-08-01 17:43:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-01 17:43:50 - Started 4260
+2021-08-01 17:44:25 - Stopping mqtt_broker.exe
+2021-08-01 17:44:25 - ProcessKill 4260
+2021-08-01 17:44:25 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-08-01 17:44:49 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-01 17:44:50 - Started 5308
+2021-08-02 13:14:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-02 13:14:17 - Started 4548
+2021-08-03 13:11:39 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-03 13:11:40 - Started 4528
+2021-08-04 09:17:31 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-04 09:17:31 - Started 4552
+2021-08-05 08:55:40 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-05 08:55:40 - Started 4720
+2021-08-06 08:52:30 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-06 08:52:30 - Started 4528
+2021-08-07 09:46:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-07 09:46:48 - Started 4308
+2021-08-08 08:59:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-08 08:59:22 - Started 4276
+2021-08-09 09:57:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-09 09:57:59 - Started 4536
+2021-08-09 21:15:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-09 21:15:51 - Started 4800
+2021-08-09 21:51:46 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-09 21:51:46 - Started 4196
+2021-08-10 12:58:10 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-10 12:58:11 - Started 4668
+2021-08-10 17:37:19 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-10 17:37:19 - Started 4748
+2021-08-11 13:05:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-11 13:05:58 - Started 4292
+2021-08-12 09:22:38 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-12 09:22:38 - Started 4428
+2021-08-12 09:22:51 - Stopping mqtt_broker.exe
+2021-08-12 09:22:51 - ProcessKill 4428
+2021-08-12 09:22:51 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-08-12 09:23:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-12 09:23:24 - Started 5564
+2021-08-13 09:25:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-13 09:25:48 - Started 4364
+2021-08-17 15:41:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-17 15:41:59 - Started 4780
+2021-08-19 22:22:40 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-19 22:22:40 - Started 4360
+2021-08-20 12:58:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-20 12:58:01 - Started 4444
+2021-08-21 01:24:18 - Stopping mqtt_broker.exe
+2021-08-21 01:24:18 - ProcessKill 4444
+2021-08-21 01:24:18 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-08-21 09:41:04 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-21 09:41:04 - Started 4940
+2021-08-21 10:39:55 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-21 10:39:55 - Started 4360
+2021-08-21 18:37:19 - Stopping mqtt_broker.exe
+2021-08-21 18:37:19 - ProcessKill 4360
+2021-08-21 18:37:19 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-08-23 10:22:35 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-23 10:22:35 - Started 4976
+2021-08-24 08:42:54 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-24 08:42:54 - Started 4608
+2021-08-24 19:14:34 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-24 19:14:35 - Started 4516
+2021-08-24 19:32:14 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-24 19:32:14 - Started 4716
+2021-08-25 08:40:10 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-25 08:40:10 - Started 4516
+2021-08-26 09:17:16 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-26 09:17:17 - Started 4592
+2021-08-26 12:55:40 - Stopping mqtt_broker.exe
+2021-08-26 12:55:40 - ProcessKill 4592
+2021-08-26 12:55:40 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-08-26 12:56:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-26 12:56:26 - Started 4668
+2021-08-27 00:31:45 - Stopping mqtt_broker.exe
+2021-08-27 00:31:45 - ProcessKill 4668
+2021-08-27 00:31:45 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-08-27 08:57:15 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-27 08:57:16 - Started 5020
+2021-08-28 23:09:10 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-28 23:09:10 - Started 4704
+2021-08-29 09:04:38 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-29 09:04:38 - Started 4456
+2021-08-31 23:03:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-08-31 23:03:41 - Started 4800
+2021-08-31 23:55:51 - Stopping mqtt_broker.exe
+2021-08-31 23:55:51 - ProcessKill 4800
+2021-08-31 23:55:52 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-09-01 12:31:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-01 12:31:23 - Started 4764
+2021-09-02 15:10:06 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-02 15:10:06 - Started 4644
+2021-09-06 20:06:12 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-06 20:06:12 - Started 4620
+2021-09-06 22:52:40 - Stopping mqtt_broker.exe
+2021-09-06 22:52:40 - ProcessKill 4620
+2021-09-06 22:52:41 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-09-07 09:34:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-07 09:34:48 - Started 4976
+2021-09-07 14:00:59 - Stopping mqtt_broker.exe
+2021-09-07 14:00:59 - ProcessKill 4976
+2021-09-07 14:00:59 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-09-07 21:53:12 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-07 21:53:13 - Started 5312
+2021-09-08 08:40:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-08 08:40:23 - Started 4820
+2021-09-08 09:09:31 - Stopping mqtt_broker.exe
+2021-09-08 09:09:31 - ProcessKill 4820
+2021-09-08 09:09:31 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-09-13 21:23:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-13 21:23:48 - Started 4928
+2021-09-14 22:37:05 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-14 22:37:06 - Started 4864
+2021-09-16 10:07:02 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-16 10:07:02 - Started 4636
+2021-09-20 09:47:30 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-20 09:47:30 - Started 4204
+2021-09-20 22:03:10 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-20 22:03:10 - Started 4644
+2021-09-21 19:45:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-21 19:45:51 - Started 4984
+2021-09-22 21:57:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-22 21:57:11 - Started 4716
+2021-09-23 14:42:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-23 14:42:50 - Started 4636
+2021-09-23 17:27:38 - Stopping mqtt_broker.exe
+2021-09-23 17:27:38 - ProcessKill 4636
+2021-09-23 17:27:38 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-09-24 21:39:00 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-24 21:39:01 - Started 4544
+2021-09-25 21:32:32 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-25 21:32:33 - Started 4816
+2021-09-29 16:34:04 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-29 16:34:04 - Started 4836
+2021-09-29 17:25:15 - Stopping mqtt_broker.exe
+2021-09-29 17:25:15 - ProcessKill 4836
+2021-09-29 17:25:17 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-09-30 08:03:02 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-30 08:03:03 - Started 5012
+2021-09-30 13:23:47 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-30 13:23:47 - Started 4972
+2021-09-30 17:57:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-30 17:57:58 - Started 4420
+2021-10-04 20:10:43 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-04 20:10:43 - Started 4560
+2021-10-05 09:47:25 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-05 09:47:25 - Started 4780
+2021-10-06 00:10:33 - Stopping mqtt_broker.exe
+2021-10-06 00:10:33 - ProcessKill 4780
+2021-10-06 00:10:33 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-07 18:29:47 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-07 18:29:47 - Started 5460
+2021-10-07 21:29:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-07 21:29:22 - Started 4692
+2021-10-08 00:39:34 - Stopping mqtt_broker.exe
+2021-10-08 00:39:34 - ProcessKill 4692
+2021-10-08 00:39:34 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-08 20:32:46 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-08 20:32:46 - Started 5184
+2021-10-10 12:37:36 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-10 12:37:36 - Started 4432
+2021-10-11 13:26:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-11 13:26:20 - Started 4800
+2021-10-11 13:27:07 - Stopping mqtt_broker.exe
+2021-10-11 13:27:07 - ProcessKill 4800
+2021-10-11 13:27:07 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-13 18:20:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-13 18:20:22 - Started 4248
+2021-10-14 23:27:00 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-14 23:27:00 - Started 4432
+2021-10-14 23:28:34 - Stopping mqtt_broker.exe
+2021-10-14 23:28:34 - ProcessKill 4432
+2021-10-14 23:28:34 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-14 23:29:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-14 23:29:17 - Started 5768
+2021-10-15 23:27:21 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-15 23:27:21 - Started 4556
+2021-10-16 00:09:57 - Stopping mqtt_broker.exe
+2021-10-16 00:09:57 - ProcessKill 4556
+2021-10-16 00:09:57 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-16 08:24:56 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-16 08:24:56 - Started 4772
+2021-10-16 08:53:49 - Stopping mqtt_broker.exe
+2021-10-16 08:53:49 - ProcessKill 4772
+2021-10-16 08:53:50 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-19 08:35:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-19 08:35:08 - Started 5152
+2021-10-19 14:03:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-19 14:03:08 - Started 4736
+2021-10-19 14:35:35 - Stopping mqtt_broker.exe
+2021-10-19 14:35:35 - ProcessKill 4736
+2021-10-19 14:35:37 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-21 21:07:15 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-21 21:07:15 - Started 4388
+2021-10-22 01:20:39 - Stopping mqtt_broker.exe
+2021-10-22 01:20:39 - ProcessKill 4388
+2021-10-22 01:20:39 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-22 10:24:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-22 10:24:46 - Started 1064
+2021-10-22 14:36:41 - Stopping mqtt_broker.exe
+2021-10-22 14:36:41 - ProcessKill 1064
+2021-10-22 14:36:41 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-22 22:53:06 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-22 22:53:06 - Started 5004
+2021-10-23 00:42:09 - Stopping mqtt_broker.exe
+2021-10-23 00:42:09 - ProcessKill 5004
+2021-10-23 00:42:10 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-23 09:18:29 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-23 09:18:30 - Started 4468
+2021-10-24 21:56:34 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-24 21:56:34 - Started 4748
+2021-10-25 00:45:39 - Stopping mqtt_broker.exe
+2021-10-25 00:45:39 - ProcessKill 4748
+2021-10-25 00:45:39 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-26 22:23:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-26 22:23:02 - Started 4704
+2021-10-26 22:29:10 - Stopping mqtt_broker.exe
+2021-10-26 22:29:10 - ProcessKill 4704
+2021-10-26 22:29:11 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-10-27 21:37:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Win10PHP\Desktop\New folder\iot_project\mqtt_broker\index.js" --scriptoptions= --log "Mqtt_Broker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-27 21:37:21 - Started 5360
